@@ -1,0 +1,610 @@
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.exe
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csprojAssemblyReference.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfoInputs.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfo.cs
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.RazorTargetAssemblyInfo.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.Manifest.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.xml
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CopyComplete
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.deps.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.dev.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.genruntimeconfig.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CoreCompileInputs.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucket\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.MvcApplicationPartsAssemblyInfo.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.json
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.exe
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.deps.json
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.json
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.dev.json
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.pdb
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csprojAssemblyReference.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CoreCompileInputs.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.MvcApplicationPartsAssemblyInfo.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfoInputs.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfo.cs
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.RazorTargetAssemblyInfo.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CopyComplete
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.Manifest.cache
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.xml
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.dll
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.pdb
+I:\IDB-BISEW\BitBucket-Master\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.genruntimeconfig.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.exe
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.deps.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.dev.json
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfoInputs.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfo.cs
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.RazorTargetAssemblyInfo.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CopyComplete
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.Manifest.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.xml
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.genruntimeconfig.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CoreCompileInputs.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.MvcApplicationPartsAssemblyInfo.cache
+I:\IDB-BISEW\Job Portal Final Project\bitBucketShaheen\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csprojAssemblyReference.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.exe
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.deps.json
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.json
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.runtimeconfig.dev.json
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\JobPortalApp.pdb
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csprojAssemblyReference.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfoInputs.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.AssemblyInfo.cs
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CoreCompileInputs.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.MvcApplicationPartsAssemblyInfo.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.RazorTargetAssemblyInfo.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.csproj.CopyComplete
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.Manifest.cache
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\staticwebassets\JobPortalApp.StaticWebAssets.xml
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.dll
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.pdb
+E:\IDB\final project\JobPortalWebApi\JobPortalApp\obj\Debug\netcoreapp3.1\JobPortalApp.genruntimeconfig.cache
